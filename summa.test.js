@@ -1,0 +1,1 @@
+beraknaSumma(a, b)
