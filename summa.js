@@ -20,5 +20,4 @@ function minFunktion(a, b) {
     });
   });
 
-  kcjvhadk
   
