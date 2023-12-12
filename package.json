@@ -4,7 +4,7 @@
   "description": "",
   "main": "summa.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll --verbose"
   },
   "author": "",
   "license": "ISC",
