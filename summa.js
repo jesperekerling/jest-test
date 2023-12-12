@@ -19,4 +19,6 @@ function minFunktion(a, b) {
       expect(resultat).toBe(-2);
     });
   });
+
+  kcjvhadk
   
